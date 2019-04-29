@@ -1,5 +1,6 @@
 //ものすごく単純なN体シミュレーション
 //imax個のファイルを作ります
+//vimでうってみたよ。テストテスト。
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
