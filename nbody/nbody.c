@@ -7,7 +7,7 @@
 #include<stdlib.h>
 #include<time.h>
 
-#define N 1000 //粒子数
+#define N 100 //粒子数
 
 void runge4(double t, double *y, double *m, int n, double h, double funcpt(int i, double t, double *y, double *m));
 double f(int i, double t, double *y, double *m);
